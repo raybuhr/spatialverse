@@ -22,7 +22,6 @@ Loading packages:
 mapview
 mapedit
 sf
->
 ```
 
 ## Background
